@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  padding-left: 20px;
+}
+
+.tableContainer {
+  width: 1000px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 20px 0px;
+  overflow: auto;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
